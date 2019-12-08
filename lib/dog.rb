@@ -14,5 +14,5 @@ end
   
   def bark
     fido.bark
-   puts 
+   puts "woof!"
   end
