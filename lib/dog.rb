@@ -9,9 +9,10 @@ end
  fido = Dog.new
  fido.name = ("Fido")
  puts fido.name
+ fido.bark
  end
   
-  def bark
-    fido.bark
+  # def bark
+  #   fido.bark
    
-  end
+  # end
