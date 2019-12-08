@@ -13,6 +13,6 @@ end
  end
   
   def bark
-    fido.bark
+    
    puts "woof!"
   end
