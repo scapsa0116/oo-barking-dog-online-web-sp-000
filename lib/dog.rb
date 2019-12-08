@@ -6,5 +6,6 @@ end
  bubble.name = "Bubble"
  puts buble.name
  end
- 
+  def bark
+    puts 
   
