@@ -2,9 +2,9 @@ class Dog
  
 end
  def name
- bubble = Dog.new
- bubble.name = "Bubble"
- puts buble.name
+ fido = Dog.new
+ fido.name = "Fido"
+ puts fido.name
  end
   
   def bark
