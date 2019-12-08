@@ -1,7 +1,10 @@
 class Dog
-  bubble.name = dog_name
+ 
 end
  
+ bubble = Dog.new
+ bubble.name = "Bubble"
+ puts buble.name
+ end
  
- def dog_name
-   nam
+  
